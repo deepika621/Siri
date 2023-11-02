@@ -1,2 +1,2 @@
-var c = 3;
+var c = 6;
 console.log(c)
